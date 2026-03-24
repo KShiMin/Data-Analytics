@@ -1,0 +1,15 @@
+[project]
+name = "data-analytics"
+version = "0.1.0"
+description = "Jupyter notebooks and datasets for the Data Analytics module"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel",
+    "jupyterlab",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "scipy",
+]
